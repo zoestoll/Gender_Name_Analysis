@@ -1,0 +1,46 @@
+For Students in Stanford CS, the proportion of males to females
+     There were 134 females
+     There were 365 males
+     There were 104 unsure names
+The ratio of females to males is 0.367123287671
+     Percent female: 26.8537074148%
+     Percent male: 73.1462925852%
+ --------------------------------------------------------------------------------------
+ 
+For Students in UCSB Grad class, the proportion of males to females:
+     There were 12 females
+     There were 34 males
+     There were 44 unsure names
+The ratio of females to males is 0.352941176471
+     Percent female: 26.0869565217%
+     Percent male: 73.9130434783%
+ --------------------------------------------------------------------------------------
+For Students in U of Washington undergraduate class, the proportion of males to females:
+     There were 20 females
+     There were 61 males
+     There were 25 unsure names
+The ratio of females to males is 0.327868852459
+     Percent female: 24.6913580247%
+     Percent male: 75.3086419753%
+ -------------------------------------------------------------------------------------
+ 
+For Students in U Washington Grad class, the proportion of males to females:
+     There were 19 females
+     There were 67 males
+     There were 37 unsure names
+The ratio of females to males is 0.283582089552
+     Percent female: 22.0930232558%
+     Percent male: 77.9069767442%
+ --------------------------------------------------------------------------------------
+ 
+For Students in UC Irvine Grad class, the proportion of males to females:
+     There were 52 females
+     There were 162 males
+     There were 286 unsure names
+The ratio of females to males is 0.320987654321
+     Percent female: 24.2990654206%
+     Percent male: 75.7009345794%
+ --------------------------------------------------------------------------------------
+
+ 
+ 

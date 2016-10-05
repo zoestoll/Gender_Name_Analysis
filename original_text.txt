@@ -1,0 +1,90 @@
+Daniel Agun,Ph.D.,,dagun@cs.ucsb.edu,,
+Muath Alkhalaf,Ph.D.,,muath @t cs dot ucsb dot edu,Lab: Verification Lab, 2162 Harold Frank Hall,Personal Website
+Victor Amelkin,Ph.D.,,victor++@cs.ucsb.edu,2120a Harold Frank Hall,Personal Website
+Vaibhav Arora,Ph.D.,,vaibhavarora@cs.ucsb.edu,,
+Keith Avery,M.S.,,kpavery@cs.ucsb.edu,,
+Abdulbaki Aydın,Ph.D.,,baki [at] cs [.] ucsb [.] edu,2162 Harold Frank Hall,Personal Website
+Kasturi Bhattacharjee,Ph.D.,,kbhattacharjee@cs.ucsb.edu,Computational Science and Engineering Lab,
+Ivan Bocic,Ph.D.,,bo@cs.ucsb.edu,,Personal Website
+Kevin Borgolte,Ph.D.,,kevinbo@cs.ucsb.edu,seclab - 2114 Harold Frank Hall,Personal Website
+Jonathan Brown,M.S.,,jbrown00@cs.ucsb.edu,SecLab - 2114 Harold Frank Hall,Personal Website
+Nadav Caspi,M.S.,,nadav@cs.ucsb.edu,,
+Arvind Chitra Rajasekaran,M.S.,,arvind@cs.ucsb.edu,,
+Jacopo Corbetta,Ph.D.,,jacopo@cs.ucsb.edu,,Personal Website
+Lara Deek,Ph.D.,,laradeek@cs.ucsb.edu,2152A Harold Frank Hall,Personal Website
+Zhaoxia (Summer) Deng,Ph.D.,8056985995,zhaoxia@cs.ucsb.edu,Room 5120A, Harold Frank Hall,
+Nazli Dereli,M.S.,,ndereli@cs.ucsb.edu,,Personal Website
+Kevin Deweese,Ph.D.,,kdeweese@cs.ucsb.edu,5110 Harold Frank Hall,Personal Website
+Stratos Dimopoulos,Ph.D.,,stratos@cs.ucsb.edu,Mayhem Lab - 5112 Harold Frank Hall,Personal Website
+Karim Elghamrawy,Ph.D.,,karim@cs.ucsb.edu,,Personal Website
+May ElSherif,Ph.D.,,mayelsherif@cs.ucsb.edu,,
+Victor Fragoso,Ph.D.,,c@cs.ucsb.edu,,Personal Website
+Yanick Fratantonio,Ph.D.,,yanick@cs.ucsb.edu,2114 Harold Frank Hall,Personal Website
+Emily Fujimoto,Ph.D.,,efujimoto@cs.ucsb.edu,,Personal Website
+Steffen Gauglitz,Ph.D.,,sgauglitz@cs.ucsb.edu,2024 Elings Hall,
+Theodore Georgiou,Ph.D.,,teogeorgiou@cs.ucsb.edu,,Personal Website
+Nevena Golubovic,M.S.,,nevena@cs.ucsb.edu,,
+Mengyuan Gu,M.S.,,mgu@cs.ucsb.edu,,
+Fangqiu Han,Ph.D.,,fhan@cs.ucsb.edu,,
+Johan Henkens,M.S.,,jhenkens@cs.ucsb.edu,,
+Charlotte Hill,Ph.D.,,charlottehill@cs.ucsb.edu,,
+Minh Hoang,Ph.D.,,mhoang@cs.ucsb.edu,,Personal Website
+Asad Ismail,Ph.D.,,asad@cs.ucsb.edu,3530 Phelps,Personal Website
+Hiranya Jayathilaka,Ph.D.,,hiranya@cs.ucsb.edu,,Personal Website
+Kyle Jorgensen,M.S.,,kylejorgensen@cs.ucsb.edu,,Personal Website
+Byungkyu Kang,Ph.D.,805 455 9856,bkang@umail.ucsb.edu,,Personal Website
+Alexandros Kapravelos,Ph.D.,,kapravel@cs.ucsb.edu,2114 Harold Frank Hall,Personal Website
+Vineeth Kashyap,Ph.D.,,vineeth@cs.ucsb.edu,3518 Phelps,Personal Website
+Madhukar Kedlaya,Ph.D.,,mkedlaya@cs.ucsb.edu,,
+Dhilung Kirat,Ph.D.,,dhilung@cs.ucsb.edu,SecLab, 2114 Harold Frank Hall,Personal Website
+Kyle Klein,Ph.D.,,kyleklein@cs.ucsb.edu,,Personal Website
+Daniel Kudrow,M.S.,,dkudrow@cs.ucsb.edu,5120A Harold Frank Hall,Personal Website
+Ethan Kuefner,M.S.,,eakuefner@cs.ucsb.edu,,Personal Website
+Yang Li,Ph.D.,,yangli@cs.ucsb.edu,,Personal Website
+Qingyun Liu,Ph.D.,,qingyun_liu@cs.ucsb.edu,3530 Phelps Hall,Personal Website
+Hongeli Liu,Ph.D.,,honglei@cs.ucsb.edu,,
+Adam Lugowski,Ph.D.,,alugowski@cs.ucsb.edu,5110 Harold Frank Hall,
+Sourav Medya,Ph.D.,,medya@cs.ucsb.edu,,
+Kirsten Meeker,Ph.D.,,kmeeker@cs.ucsb.edu,,Personal Website
+Sivabalan Narayanan,M.S.,4252413220,sivabalan@cs.ucsb.edu,,Personal Website
+Dibyendu Nath,M.S.,,dnath@cs.ucsb.edu,,Personal Website
+Faisal Nawab,Ph.D.,,nawab@cs.ucsb.edu,,
+Mikhail Nekrasov,Ph.D.,,mnekrasov@cs.ucsb.edu,,
+Ana Nika,Ph.D.,,anika@cs.ucsb.edu,SAND Lab - 3530 Phelps,Personal Website
+Benjamin Nuernberger,Ph.D.,,bnuernberger@cs.ucsb.edu,2024 Elings Hall,
+Alexander Pucher,Ph.D.,,pucher [at] cs.ucsb.edu,,Personal Website
+Yalun Qin,M.S.,8058864421,yalun@umail.ucsb.edu,,
+Donghao Ren,Ph.D.,+1 805-886-4491,donghaoren@cs.ucsb.edu,,Personal Website
+Mathieu Rodrigue,Ph.D.,,mathieu@cs.ucsb.edu,2024 Elings,Personal Website
+Cetin Sahin,Ph.D.,,cetin@cs.ucsb.edu,,
+Divya Sambasivan,M.S.,+1 (858) 729-4746,divya_sambasivan@cs.ucsb.edu,,Personal Website
+Saiph Savage,Ph.D.,(805)-893-2614,saiph@cs.ucsb.edu,2024 Elings,Personal Website
+James Schaffer,Ph.D.,,james_schaffer@cs.ucsb.edu,,
+Paul Schmitt,Ph.D.,,pschmitt@cs.ucsb.edu,,Personal Website
+Yan Shoshitaishvili,Ph.D.,,yans@cs.ucsb.edu,,
+Veronika Strnadova,Ph.D.,,veronika@cs.ucsb.edu,5106 Harold Frank Hall,Personal Website
+Yu Su,Ph.D.,(805) 886-7320,ysu@cs.ucsb.edu,101 Trailer 936,Personal Website
+Huan Sun,Ph.D.,,huansun@cs.ucsb.edu,,Personal Website
+Jonathan Sun,Ph.D.,,jsun@cs.ucsb.edu,,Personal Website
+Yutian Sun,Ph.D.,(805)886-5382,sun@cs.ucsb.edu,2162 Harold Frank Hall,Personal Website
+Chris Sweeney,Ph.D.,,cmsweeney@cs.ucsbe.du,2024 Elings,Personal Website
+Xun Tang,Ph.D.,,xtang@cs.ucsb.edu,Room 5110, Harold Frank Hall,Personal Website
+Yun Teng,Ph.D.,,yunteng@umail.ucsb.edu,2005 Elings Hall,Personal Website
+Morgan Vigil,Ph.D.,,mvigil@cs.ucsb.edu,2152 Harold Frank Hall,Personal Website
+Bolun Wang,Ph.D.,,bolunwang@cs.ucsb.edu,,
+Yilei Wang,M.S.,,yileiwang@cs.ucsb.edu,HFH 2120A,Personal Website
+Ruoyu Wang,Ph.D.,,fish@cs.ucsb.edu,,
+Gang Wang,Ph.D.,,gangw@cs.ucsb.edu,3530 Phelps Hall, UCSB,Personal Website
+Liang Xia,M.S.,,liangxia@cs.ucsb.edu,,Personal Website
+Shengqi Yang,Ph.D.,(805) 886-5269,sqyang@cs.ucsb.edu,1412 Phelps,Personal Website
+Hakan Yıldız,Ph.D.,,hakan@cs.ucsb.edu,2120B Harold Frank Hall,Personal Website
+Tianjiu Yin,M.S.,,tianjiu@umail.ucsb dot edu,,
+Victor Zakhary,Ph.D.,8056890612,victorzakhary@cs.ucsb.edu,,
+Ali Zand,Ph.D.,,zand@cs.ucsb.edu,,
+Zengbin Zhang,Ph.D.,,zengbin@cs.ucsb.edu,3530 Phelps,Personal Website
+Xiaohan Zhao,Ph.D.,,xiaohanzhao@cs.ucsb.edu,,Personal Website
+Mariya Zheleva,Ph.D.,,mariya@cs.ucsb.edu,HFH 2152A,Personal Website
+Lin Zhou,Ph.D.,8058953432,linzhou@cs.ucsb.edu,3530 Phelps,Personal Website
+Qin Zhou,Ph.D.,,qinzhou@cs.ucsb.edu,,Personal Website
+Yibo Zhu,Ph.D.,,yibo@cs.ucsb.edu,,Personal Website
+Bo Zong
